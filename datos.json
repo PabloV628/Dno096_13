@@ -1,0 +1,111 @@
+[
+    {
+        "nombre": "Poster EEAAO",
+        "descripcion": "Poster de créditos de Everything Everywhere All at Once. Este proyecto se destaca por su edición fotográfica. Mediante la distorsión de la imagen y la repetición de la tipografía se representa el caos y la perdida de identidad que sufre la protagonista.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/d48ebc6a-6db7-4d04-8cf8-ce09dd7b439a",
+        "fotos":["eeaao-1.jpg","eeaao-2.jpg","eeaao-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "Infografía feminista",
+        "descripcion": "Infografía sobre feminismo. Este trabajo se destaca por su jerarquización de elementos, estableciendo dos ejes centrales mediante las imágenes: uno relacionado con el feminismo y el otro con los problemas que surgen en su ausencia.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/f23f575d-8b17-4a30-90ae-24bf7d3da079",
+        "fotos":["datos-1.jpg","datos-2.jpg","datos-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "Poster Patio Vivo",
+        "descripcion": "Set de Posters para Fundación Patio Vivo. Se buscó representar conceptos como circularidad, centros de encuentro e involucramiento con el entorno. La imagen presenta simetría y un eje central que permite que el póster funcione al voltearse.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/852b8fd1-f863-4eb2-a16b-43a277750487",
+        "fotos":["patio-1.jpg","patio-2.jpg","patio-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "Aplicación Dialifit",
+        "descripcion": "Aplicación de ejercicio para pacientes de diálisis peritoneal. Su diseño se basó en las necesidades reales de los pacientes, obtenidas mediante entrevistas y cuestionarios. Luego, se diseñaron sus funciones mediante Figma.",
+        "fecha": "2024",
+        "signo": "ux",
+        "foto": "https://github.com/user-attachments/assets/4eac00cc-2790-4211-acd3-7fb4973e8a67",
+        "fotos":["diali-1.jpg","diali-2.jpg","diali-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "Poster Buin Zoo",
+        "descripcion": "Ilustración a mano vectorizada para promocionar el Buin Zoo",
+        "fecha": "2024",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/602a92a3-3b64-4324-9103-ad568024e727",
+       "fotos":["buin-1.jpg","buin-2.jpg","buin-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "Escritora",
+        "descripcion": "Ilustración creativa de cuento de santiago en 100 palabras",
+        "fecha": "2024",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/5b76d894-3636-4c60-97e4-d401ed6c261a",
+        "fotos":["escritora-1.jpg","escritora-2.jpg","escritora-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "Ismael el Viajero",
+        "descripcion": "Ilustración Digital sobre Moby Dick ",
+        "fecha": "2024",
+        "signo": "ilustracion",
+        "foto": "https://github.com/user-attachments/assets/58a79ae6-96cb-478d-a8a0-7d76bcdd5469",
+        "fotos":["ismael-1.jpg","ismael-2.jpg","ismael-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "Fanzine tipográfico",
+        "descripcion": "Fanzine a color que compara y destaca las tipografías de dos diseñadores. Tiene un diseño dinámico ya que las formas y características de las páginas están pensadas para resaltar los caracteres y así mantener el interés del lector.",
+        "fecha": "2023",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/00eaf75a-555d-4e4f-90b6-3e7fe62784fd",
+        "fotos":["fanzine-1.jpg","fanzine-2.jpg","fanzine-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+    {
+        "nombre": "Juego: Astrotegik",
+        "descripcion": "Propuesta de juego de mesa de estrategia que incluye el diseño de un set de cartas, un instructivo, un tablero y piezas, junto con el desarrollo de su packaging y logotipo.",
+        "fecha": "2022",
+        "signo": "branding",
+        "foto": "https://github.com/user-attachments/assets/27193394-648d-4608-a914-56584397634c",
+        "fotos":["astro-1.jpg","astro-2.jpg","astro-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+
+    {
+        "nombre": "Menú Bugambilia",
+        "descripcion": "Propuesta de rediseño del menú de una cafetería, acompañada del diseño de nuevos indiviudales y servilletas. El objetivo era darles a estos elementos una identidad de marca coherente y fresca, que reflejara la esencia del lugar, lo cual no estaba presente en el diseño anterior",
+        "fecha": "2023",
+        "signo": "branding",
+        "foto": "https://github.com/user-attachments/assets/deb67fd1-f265-4d01-ad56-d400f9cf8b94",
+        "fotos":["bugamb-1.jpg","bugamb-2.jpg","bugamb-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+     {
+        "nombre": "Studypet",
+        "descripcion": "Aplicación para niños con TDAH. Su diseño se enfocó en ser amigable, tierno y fácil de usar, motivando al niño a hacer sus tareas mediante la personalización de una mascota.",
+        "fecha": "2022",
+        "signo": "ux",
+        "foto": "https://github.com/user-attachments/assets/503f8194-149e-4535-9f04-b61de4be2816",
+        "fotos":["study-1.jpg","study-2.jpg","study-3.jpg"],
+        "github": "https://github.com/pablov628"
+    },
+     {
+        "nombre": "Irregular",
+        "descripcion": "Libro experimental cocido a mano. Acerca de la conexión y similitud entre los patrones irregulares de la naturaleza y el cuerpo humano. Utiliza páginas recortadas interactivas que ocultan imágenes hasta que se voltea la página, revelando su contenido.",
+        "fecha": "2022",
+        "signo": "editorial",
+        "foto": "https://github.com/user-attachments/assets/00338e6c-71d6-483e-938d-121abf0c3c4b",
+        "fotos":["irre-1.jpg","irre-2.jpg","irre-3.jpg"],
+        "github": "https://github.com/pablov628"
+    }
+]
